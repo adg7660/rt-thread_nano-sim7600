@@ -1,3 +1,8 @@
+#self files
+/project/MDK5/*
+!*.uvoptx
+!*.uvprojx
+
 # Prerequisites
 *.d
 
